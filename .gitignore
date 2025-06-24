@@ -6,24 +6,6 @@ __pycache__/
 venv/
 env/
 
-# Jupyter notebooks
-notebooks/
-*.ipynb
-
-# Samples and binaries
-samples/
-*.pdf
-*.docx
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.whl
-
-# Hugging Face won't allow these
-website_images/
-
-# Docker build artifacts
+# Logs and temporary files
 *.log
-.dockerignore
 docker-compose.yml

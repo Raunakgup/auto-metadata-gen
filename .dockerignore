@@ -1,0 +1,30 @@
+# Ignore local virtual environments
+venv/
+env/
+
+# Ignore Git metadata
+.git/
+.gitignore
+
+# Ignore Jupyter notebooks and related
+notebooks/
+*.ipynb
+
+# Ignore sample data or large binaries
+samples/
+website_images/
+*.pdf
+*.docx
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.whl
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Any other local logs or config
+*.log
+

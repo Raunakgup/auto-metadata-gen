@@ -39,7 +39,7 @@ This project implements a scalable, automated metadata generation pipeline for u
 │   ├── example.docx
 │   └── example.pdf
 ├── example_metadata.json  # Sample output metadata for `example.pdf` in samples
-├── notebooks/             # Jupyter notebooks demonstrating pipeline
+├── notebooks/             # Jupyter notebook demonstrating pipeline (Do check it out to understand the flow)
 │   └── metadata_pipeline.ipynb
 ├── tests/                 # Automated test suite
 │   ├── test_data_utils.py         # Tests for text extraction

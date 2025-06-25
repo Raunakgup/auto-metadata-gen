@@ -49,6 +49,8 @@ This project implements a scalable, automated metadata generation pipeline for u
 ```
 
 ---
+The website is deployed live on render, this is the link -> https://auto-metadata-gen.onrender.com/ 
+Do not upload files greater then 1 MB, it will very likely crash due to the RAM and CPU limitations.
 
 ## Installation
 
